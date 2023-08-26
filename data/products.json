@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Crispy Fried Chicken",
+      "price": "13.00",
+      "url": "./images/meat-2.svg",
+      "category": "Fast Food"
+    },
+    {
+      "id": 2,
+      "title": "Burger Patty Recipe",
+      "price": "15.00",
+      "url": "./images/burger.svg",
+      "category": "Fast Food"
+    },
+    {
+      "id": 3,
+      "title": "Must-Try Dishes ",
+      "price": "12.00",
+      "url": "./images/dish-1.svg",
+      "category": "Fast Food"
+    },
+    {
+      "id": 4,
+      "title": "Tasty French Fries",
+      "price": "17.00",
+      "url": "./images/french-fries.svg",
+      "category": "Fast Food"
+    }
+  ]
+}
